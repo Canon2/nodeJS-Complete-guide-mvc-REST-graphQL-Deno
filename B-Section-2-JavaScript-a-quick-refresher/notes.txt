@@ -1,0 +1,5 @@
+Various JavaScript Tutorials:
+1. https://academind.com/tutorials
+2. https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+
+
